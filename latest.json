@@ -1,6 +1,6 @@
 {
-  "version": "0.3.3",
-  "name": "bravo 0.3.3",
-  "notes": "Drobna poprawka niezawodności sprawdzania aktualizacji. W codziennej pracy nic się nie zmienia.",
-  "url": "https://github.com/mazurian/bravo/releases/tag/v0.3.3"
+  "version": "0.3.4",
+  "name": "bravo 0.3.4",
+  "notes": "Informacja o nowszej wersji nie ginie, gdy zaczynasz rozmowę konkretnym poleceniem. Aktualizacja trafia teraz we właściwy zakres instalacji i jest potwierdzana numerem wersji.",
+  "url": "https://github.com/mazurian/bravo/releases/tag/v0.3.4"
 }
