@@ -1,6 +1,6 @@
 {
-  "version": "0.3.7",
-  "name": "bravo 0.3.7",
-  "notes": "Tekst do wklejenia pasuje do Twojej strony: bravo samo rozpoznaje edytor (blokowy, klasyczny, Elementor) i wtyczkę SEO (Rank Math, Yoast, AIOSEO) — osobno dla wpisów, stron, produktów i kategorii — i podaje tekst w formacie, który wkleisz bez przerabiania · Pytania i odpowiedzi domyślnie jako zwykła sekcja tekstu: Google od 7 maja 2026 nie pokazuje rozwijanych pytań w wynikach, więc nie trzeba ich już sprawdzać w Rich Results; blok FAQ wtyczki zostaje tam, gdzie już go używasz · Blok FAQ Rank Math w formacie sprawdzonym przy wklejaniu do edytora wizualnego, z działającymi linkami w odpowiedziach · Bez zdublowanych danych strukturalnych: bravo widzi, co już wypisuje Twoja wtyczka SEO, i nie dokłada drugiej kopii",
-  "url": "https://github.com/mazurian/bravo/releases/tag/v0.3.7"
+  "version": "0.3.8",
+  "name": "bravo 0.3.8",
+  "notes": "Porządki techniczne w sposobie wydawania aktualizacji; w pracy ze sklepem nic się nie zmienia",
+  "url": "https://github.com/mazurian/bravo/releases/tag/v0.3.8"
 }
