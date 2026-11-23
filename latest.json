@@ -1,6 +1,6 @@
 {
-  "version": "0.3.5",
-  "name": "bravo 0.3.5",
-  "notes": "Gdy jest nowsza wersja, w oknie „Co robimy?” pojawia się na górze pozycja „Zaktualizuj bravo (polecane)” — wystarczy kliknąć.",
-  "url": "https://github.com/mazurian/bravo/releases/tag/v0.3.5"
+  "version": "0.3.6",
+  "name": "bravo 0.3.6",
+  "notes": "Treści: widoczne oznaczenia miejsc na zdjęcia i linki — ikony zamiast niewidzialnych znaczników · Treści: polskie znaki wymagane wszędzie, też w podpisach i tekstach alternatywnych · Treści: szybsze i tańsze pisanie dzięki doborowi modeli do zadań",
+  "url": "https://github.com/mazurian/bravo/releases/tag/v0.3.6"
 }
