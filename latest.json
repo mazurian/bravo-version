@@ -1,6 +1,6 @@
 {
-  "version": "0.3.10",
-  "name": "bravo 0.3.10",
-  "notes": "Konfigurator sklepu kończy się raportem w Twoich kolorach — plik HTML do wglądu w przeglądarce i PDF do wydruku, do pracy offline · W menu „Pokaż największe szanse” też składa teraz ten sam raport — zawsze jeden plik, który można komuś pokazać, wydrukować albo zapisać",
-  "url": "https://github.com/mazurian/bravo/releases/tag/v0.3.10"
+  "version": "0.3.11",
+  "name": "bravo 0.3.11",
+  "notes": "W menu „Co robimy?” przycisk „Zaktualizuj bravo” pokazuje, co dokładnie dostaniesz w nowej wersji — zamiast suchego „nowa wersja narzędzia” · Nowe wydanie pojawia się w sklepie tego samego dnia, a nie dopiero po pół doby — sprawdzanie wersji odświeża się co godzinę",
+  "url": "https://github.com/mazurian/bravo/releases/tag/v0.3.11"
 }
