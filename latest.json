@@ -1,6 +1,6 @@
 {
-  "version": "0.3.9",
-  "name": "bravo 0.3.9",
-  "notes": "Aktualizacja bravo kończy się jednym prostym zdaniem: co zostało zrobione i co kliknąć dalej — bez technicznych szczegółów",
-  "url": "https://github.com/mazurian/bravo/releases/tag/v0.3.9"
+  "version": "0.3.10",
+  "name": "bravo 0.3.10",
+  "notes": "Konfigurator sklepu kończy się raportem w Twoich kolorach — plik HTML do wglądu w przeglądarce i PDF do wydruku, do pracy offline · W menu „Pokaż największe szanse” też składa teraz ten sam raport — zawsze jeden plik, który można komuś pokazać, wydrukować albo zapisać",
+  "url": "https://github.com/mazurian/bravo/releases/tag/v0.3.10"
 }
