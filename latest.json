@@ -1,6 +1,6 @@
 {
-  "version": "0.3.11",
-  "name": "bravo 0.3.11",
-  "notes": "W menu „Co robimy?” przycisk „Zaktualizuj bravo” pokazuje, co dokładnie dostaniesz w nowej wersji — zamiast suchego „nowa wersja narzędzia” · Nowe wydanie pojawia się w sklepie tego samego dnia, a nie dopiero po pół doby — sprawdzanie wersji odświeża się co godzinę",
-  "url": "https://github.com/mazurian/bravo/releases/tag/v0.3.11"
+  "version": "0.3.12",
+  "name": "bravo 0.3.12",
+  "notes": "Zanim bravo poprosi Cię o zatwierdzenie, pokazuje dokładnie to, co zatwierdzasz — tabelę parametrów ze źródłami, sprzeczne wartości, listę zmian — tuż nad pytaniem. Karty produktów zatwierdzasz po jednej, bez szukania czegokolwiek w folderach · Gdy nie widzisz tabeli przy pytaniu, wystarczy napisać „pokaż tabelę” · Gdy bravo nie może zaktualizować się samo, mówi dokładnie, co kliknąć w aplikacji Claude (Update przy obu wtyczkach)",
+  "url": "https://github.com/mazurian/bravo/releases/tag/v0.3.12"
 }
